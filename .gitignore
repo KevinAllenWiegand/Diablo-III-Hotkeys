@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Diablo III Hotkeys/obj/Debug/netcoreapp3.1
+/Diablo III Hotkeys/obj
