@@ -1,0 +1,30 @@
+{
+    "profiles": [
+        {
+            "name": "Example 1",
+            "skills": {
+                "2": {
+                    "interval": 5000
+                },
+                "3": {
+                    "interval": 1000
+                },
+                "4": {
+                    "interval": 60000
+                }
+            }
+        },
+        {
+            "name": "Example 2",
+            "default": true,
+            "skills": {
+                "3": {
+                    "interval": 1000
+                },
+                "4": {
+                    "interval": 1000
+                }
+            }
+        }
+    ]
+}
